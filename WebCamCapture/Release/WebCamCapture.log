@@ -1,0 +1,11 @@
+﻿  VideoCapture.cpp
+  To compile qedit.h you must install the DirectX 9 SDK, to obtain the dxtrans.h header.
+  stdafx.cpp
+  WebCamCapture.cpp
+  dllmain.cpp
+  ReflectiveLoader.c
+     Creating library C:\Users\tester\Documents\Visual Studio 2015\Projects\WebCamCapture\Release\WebCamCapture.lib and object C:\Users\tester\Documents\Visual Studio 2015\Projects\WebCamCapture\Release\WebCamCapture.exp
+  Generating code
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WebCamCapture.vcxproj -> C:\Users\tester\Documents\Visual Studio 2015\Projects\WebCamCapture\Release\WebCamCapture.dll

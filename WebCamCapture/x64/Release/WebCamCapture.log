@@ -1,0 +1,12 @@
+﻿  VideoCapture.cpp
+  To compile qedit.h you must install the DirectX 9 SDK, to obtain the dxtrans.h header.
+  stdafx.cpp
+  WebCamCapture.cpp
+c:\users\tester\documents\visual studio 2015\projects\webcamcapture\webcamcapture\PipeServer.h(54): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+WebCamCapture.cpp(20): warning C4551: function call missing argument list
+  dllmain.cpp
+  ReflectiveLoader.c
+ReflectiveLoader.c(114): warning C4013: '__readfsdword' undefined; assuming extern returning int
+     Creating library C:\Users\tester\Documents\Visual Studio 2015\Projects\WebCamCapture\x64\Release\WebCamCapture.lib and object C:\Users\tester\Documents\Visual Studio 2015\Projects\WebCamCapture\x64\Release\WebCamCapture.exp
+ReflectiveLoader.obj : error LNK2001: unresolved external symbol __readfsdword
+C:\Users\tester\Documents\Visual Studio 2015\Projects\WebCamCapture\x64\Release\WebCamCapture.dll : fatal error LNK1120: 1 unresolved externals
